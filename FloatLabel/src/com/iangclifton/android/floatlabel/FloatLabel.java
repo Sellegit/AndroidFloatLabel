@@ -170,6 +170,10 @@ public class FloatLabel extends FrameLayout {
         return mEditText;
     }
 
+    public TextView getLabel() {
+        return mLabel;
+    }
+
     /**
      * Sets the text to be displayed above the EditText if the EditText is
      * nonempty or as the EditText hint if it is empty
