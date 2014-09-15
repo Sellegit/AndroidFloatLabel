@@ -29,3 +29,5 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/*
