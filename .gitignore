@@ -127,3 +127,5 @@ UpgradeLog*.XML
 *.userprefs
 
 .sass-cache
+Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/*
+Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/bin/*
