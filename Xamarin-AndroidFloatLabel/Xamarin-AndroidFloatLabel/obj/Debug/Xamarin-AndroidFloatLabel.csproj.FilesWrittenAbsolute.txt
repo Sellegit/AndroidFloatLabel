@@ -1,6 +1,0 @@
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/Debug/XamarinAndroidFloatLabel.obj.Debug.__AndroidLibraryProjects__.zip
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/bin/Debug/Xamarin-AndroidFloatLabel.dll.mdb
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/bin/Debug/Xamarin-AndroidFloatLabel.dll
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/Debug/Xamarin-AndroidFloatLabel.dll
-/Users/dementrock/Sellegit/peach_mobile/Lib/AndroidFloatLabel/Xamarin-AndroidFloatLabel/Xamarin-AndroidFloatLabel/obj/Debug/Xamarin-AndroidFloatLabel.dll.mdb
